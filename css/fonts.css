@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@400;700&display=swap');
+
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/latoregular.woff") format("woff"), url("../fonts/latoregular.woff2") format("woff2");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/latobold.woff") format("woff"), url("../fonts/latobold.woff2") format("woff2");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/latoblack.woff") format("woff"), url("../fonts/latoblack.woff2") format("woff2");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "99 occupy";
+	src: url("../fonts/99-occupy.woff") format("woff"), url("../fonts/99-occupy.woff2") format("woff2");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+
